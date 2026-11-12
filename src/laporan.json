@@ -1,0 +1,50 @@
+{
+  "raka": {
+    "ringkasan": "Riset 3 topik AI untuk LinkedIn selesai, tapi masih asumsi karena belum ada akses data live.",
+    "menunggu": [
+      "Perlu keputusan bos: apakah tim boleh memakai tool analitik atau akses pencarian LinkedIn untuk verifikasi tren?"
+    ],
+    "angka": [
+      {
+        "label": "Jumlah topik kandidat",
+        "nilai": "3"
+      },
+      {
+        "label": "Akses data live",
+        "nilai": "Tidak ada"
+      }
+    ]
+  },
+  "sekar": {
+    "ringkasan": "Draf postingan LinkedIn tentang AI agent di kerja harian sudah jadi, memakai gaya santai dan ajakan komentar. Belum ada data tren terverifikasi.",
+    "menunggu": [
+      "Bos perlu memutuskan apakah postingan ini dipublikasikan sebelum tren topiknya dicek ulang"
+    ],
+    "angka": [
+      {
+        "label": "Jumlah topik draf",
+        "nilai": "1"
+      }
+    ]
+  },
+  "lita": {
+    "ringkasan": "Jadwal posting LinkedIn Selasa-Kamis (08.00 dan 12.00 WIB) sudah disusun sebagai asumsi, menunggu persetujuan bos.",
+    "menunggu": [
+      "Setujui jam posting: Selasa 08.00, Rabu 12.00, Kamis 08.00 WIB (asumsi, belum diverifikasi)",
+      "Pilih topik untuk Rabu dan Kamis (usulan: etika AI dan personal branding)"
+    ],
+    "mendesak": [
+      "Cek jam posting di analitik LinkedIn sebelum posting pertama"
+    ],
+    "angka": [
+      {
+        "label": "Jam posting usulan",
+        "nilai": "3 slot (Sel 08.00, Rab 12.00, "
+      },
+      {
+        "label": "Slot terverifikasi",
+        "nilai": "0 dari 3"
+      }
+    ]
+  }
+}

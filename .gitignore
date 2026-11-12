@@ -1,0 +1,13 @@
+node_modules
+dist
+*.mp4
+
+.env
+*.tmp
+usage.json
+keputusan.json
+riset.md
+naskah.md
+jadwal.md
+hasil/
+tsconfig.tsbuildinfo
